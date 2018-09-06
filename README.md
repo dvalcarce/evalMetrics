@@ -14,7 +14,7 @@ The code of the experiments can be found in the following Jupyter notebooks:
 
 ## Data
 
-We ran 21 recommender systems on three datasets (BeerAdvocate, LibraryThing and MovieLens 1M).
+We ran 21 recommender systems on three datasets (BeerAdvocate, LibraryThing and MovieLens 1M). The output of these recommenders was evaluated using [`rec_eval`](https://github.com/dvalcarce/rec_eval) tool. We also measured statistically significant improvements using permutation test. The output of both tools can be found in [`data`](https://github.com/dvalcarce/evalMetrics/tree/master/data).
 
 ## Author
 
